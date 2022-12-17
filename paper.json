@@ -1,0 +1,30 @@
+{
+    "title": "CLOTH3D: Clothed 3D Humans",
+    "conference": "ECCV 2020",
+    "authors": [
+        {
+            "name": "Hugo Bertiche",
+            "email": "mailto:hugo_bertiche@hotmail.com",
+            "affiliations": [1, 2]
+        },
+        {
+            "name": "Meysam Madadi",
+            "email": "mailto:mmadadi@cvc.uab.cat",
+            "affiliations": [1, 2]
+        },
+        {
+            "name": "Sergio Escalera",
+            "email": "https://sergioescalera.com/",
+            "affiliations": [1, 2]
+        }
+    ],
+    "affiliations": ["Universitat de Barcelona", "Computer Vision Center"],
+    "URLs": {
+        "paper": "https://link.springer.com/chapter/10.1007/978-3-030-58565-5_21",
+        "arxiv": "https://arxiv.org/abs/1912.02792",
+        "youtube": "https://youtu.be/IWrUqBVJOrQ",
+        "github": null,
+        "data": "https://chalearnlap.cvc.uab.cat/dataset/38/description/"
+    },
+    "abstract": "We present CLOTH3D, the first big scale synthetic dataset of 3D clothed human sequences. CLOTH3D contains a large variability on garment type, topology, shape, size, tightness and fabric. Clothes are simulated on top of thousands of different pose sequences and body shapes, generating realistic cloth dynamics. We provide the dataset with a generative model for cloth generation. We propose a Conditional Variational Auto-Encoder (CVAE) based on graph convolutions (GCVAE) to learn garment latent spaces. This allows for realistic generation of 3D garments on top of SMPL model for any pose and shape."
+}
