@@ -1,4 +1,4 @@
-# CLOTH3D
+# CLOTH3D: Clothed 3D Humans
 
 <img src="https://raw.githubusercontent.com/hbertiche/hbertiche.github.io/main/imgs/publications/CLOTH3D.png">
 
